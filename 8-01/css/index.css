@@ -1,0 +1,10 @@
+body{
+    font-family: Microsoft JhengHei;
+}
+#banner{
+    background-position: center center;
+    background-size: cover;
+}
+#info{
+    background-color: #e8e0dc;
+}

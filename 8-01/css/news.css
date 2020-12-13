@@ -1,0 +1,32 @@
+body{
+    font-family: Microsoft JhengHei;
+}
+#banner{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url(../images/15.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 70vh;
+}
+#banner >.row{
+    height: 70vh;
+}
+#content{
+    background-color: #545669;
+}
+#content h4{
+    color: #aeffa2;
+}
+.row .col-lg:nth-child(1){
+    background-color: rgba(56, 24, 24, 0.035);
+}
+.row .col-lg:nth-child(2){
+    background-color: rgba(56, 24, 24, 0.07);
+}
+.row .col-lg:nth-child(3){
+    background-color: rgba(56, 24, 24, 0.105);
+}
+.row .col-lg:nth-child(4){
+    background-color: rgba(56, 24, 24, 0.035);
+}
