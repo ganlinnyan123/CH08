@@ -8,9 +8,9 @@ body{
 #info{
     background-color: #e8e0dc;
 }
-@media (max-width:576px){
+@media (max-width:320px){
     .carousel img{
-        width: 500px;
+        width: 310px;
         height: auto;
         margin-top: 50px;
     }
