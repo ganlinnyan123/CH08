@@ -8,3 +8,10 @@ body{
 #info{
     background-color: #e8e0dc;
 }
+@media (max-width:576px){
+    .carousel img{
+        width: 500px;
+        height: auto;
+        margin-top: 50px;
+    }
+}
